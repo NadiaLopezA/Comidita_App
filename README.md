@@ -1,4 +1,4 @@
-# comidita
+# Comidita
 
 A new Flutter project.
 
